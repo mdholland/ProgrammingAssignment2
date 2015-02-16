@@ -1,6 +1,6 @@
 ## cachematrix.R
 ##
-## Construct a matrix object that caches value of its inverse to avoid
+## Implement a matrix object that caches value of its inverse to avoid
 ## the overhead of recomputing it.
 
 ## Construct the matrix. This function assigns the initial value of the matrix,
